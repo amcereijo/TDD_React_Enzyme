@@ -4,7 +4,7 @@
   "description": "Test project to practice tdd with React and Enzyme",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --require setup.js *.spec.js",
+    "test": "mocha --require setup.js **/*.spec.js",
     "quik": "quik"
   },
   "author": "amcereijo",
