@@ -6,3 +6,4 @@ Code for [Testing React with TDD and Enzyme tutorial](https://daveceddia.com/get
 Before run "quik":
 *npm install object-assign --save-dev
 *npm install fbjs --save-dev
+*npm install core-js --save-dev

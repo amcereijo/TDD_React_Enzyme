@@ -1,6 +1,5 @@
-import React from 'react';
+import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
+import {BeerListContainer} from './components';
 
-const Hello = () => <span>Hi</span>
-
-ReactDOM.render(<Hello/>, document.querySelector('#root'));
+ReactDOM.render(<BeerListContainer/>, document.querySelector('#root'));
